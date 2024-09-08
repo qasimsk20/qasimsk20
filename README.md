@@ -7,7 +7,7 @@ My love is one sided but Code is Double.
 Learning various JS libraries, building myself to compete and win Everday.
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Node
+* 🧠  I'm learning NodeJS
 * 🤝  I'm open to collaborating on Streaming Website
 * ⚡  Loving someone since 2017
 
