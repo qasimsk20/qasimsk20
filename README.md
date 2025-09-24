@@ -10,16 +10,17 @@
 
 ---
 
-## <img alt="Bar Chart" width="22" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Bar%20Chart.png" /> GitHub Stats
-
+<h2 align=center><img alt="Bar Chart" width="22" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Bar%20Chart.png" /> GitHub Stats
+<h2>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=qasimsk20&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=fab387" alt="Stats" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=qasimsk20&theme=catppuccin-mocha&hide_border=true&background=1e1e2e" alt="Streak" />
 </p>
 
 ---
-
-## <img alt="Internet Icon" width="22" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Globe%20with%20Meridians.png" /> Socials
+<h2 align=center>
+<img alt="Internet Icon" width="22" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Globe%20with%20Meridians.png" /> Socials
+</h2>
 
 <!-- Clean single-row layout (no stray inline whitespace). Email implemented as a single Outlook-styled badge linked via mailto -->
 <p align="center" style="display:flex;justify-content:center;gap:10px;margin:0 0 1rem 0;flex-wrap:wrap;">
