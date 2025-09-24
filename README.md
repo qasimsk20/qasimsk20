@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center" style="font-size:1.2em;">
-  <img alt="Rocket" width="28"
-    src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Rocket.png" />
-  <b>Code to make the world a better place</b>
+ <b> <i>Coding to make the world a better place</i> </b> 
 </p>
 
 ---
