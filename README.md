@@ -12,7 +12,6 @@
 <h2>
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=qasimsk20&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=fab387" alt="Stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=qasimsk20&theme=catppuccin-mocha&hide_border=true&background=1e1e2e" alt="Streak" />
 </p>
 
 ---
@@ -37,5 +36,5 @@
   <img alt="Hourglass Done" width="28"
     src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/tarikul-islam-anik/main/assets/images/Hourglass%20Done.png" />
   <br>
-  Spend your time wisely with those who actually matter and please don't regret not doing it earlier because that time won't come back after they are gone
+"You can't change the past, but you can learn from it"
 </p>
