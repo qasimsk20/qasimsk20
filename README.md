@@ -21,12 +21,12 @@
 
 <!-- Clean single-row layout (no stray inline whitespace). Email implemented as a single Outlook-styled badge linked via mailto -->
 <p align="center" style="display:flex;justify-content:center;gap:10px;margin:0 0 1rem 0;flex-wrap:wrap;">
-  <a href="https://x.com/QasimStatic" style="display:inline-block;margin:0;" title="QasimStatic on X">
-    <img alt="X" src="https://img.shields.io/badge/X-181825?style=for-the-badge&logo=x&logoColor=cba6f7&labelColor=181825&color=181825" />
+  <a href="https://x.com/QasimStatic" style="display:inline-block;margin:0;" title="QasimStatic">
+    <img alt="x.com/QasimStatic" src="https://img.shields.io/badge/X-181825?style=for-the-badge&logo=x&logoColor=cba6f7&labelColor=181825&color=181825" />
   </a><a href="mailto:qasimsk2009@outlook.com" style="display:inline-block;margin:0;" title="qasimsk2009@outlook.com">
     <img alt="Email (qasimsk2009@outlook.com)" src="https://img.shields.io/badge/qasimsk2009@outlook.com-181825?style=for-the-badge&logo=microsoftoutlook&logoColor=a6e3a1&labelColor=181825&color=181825" />
-  </a><a href="https://discord.com/users/438008382075117570" style="display:inline-block;margin:0;" title="qasimsk20 on Discord">
-    <img alt="Discord (qasimsk20)" src="https://img.shields.io/badge/Discord-181825?style=for-the-badge&logo=discord&logoColor=cba6f7&labelColor=181825&color=181825" />
+  </a><a href="https://discord.com/users/438008382075117570" style="display:inline-block;margin:0;" title="qasimsk20">
+    <img alt="qasimsk20" src="https://img.shields.io/badge/Discord-181825?style=for-the-badge&logo=discord&logoColor=cba6f7&labelColor=181825&color=181825" />
   </a>
 </p>
 
